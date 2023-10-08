@@ -34,4 +34,4 @@ There's quite a bit of data in this dataset, and numerous directions you could g
 
 ## Next steps
 
-This first scenario is designed to provide a sense of how to work with GitHub Copilot and how to interact with it. You'll likely have seen it was able to suggest libraries to use and the tasks necessary to complete a given scenario. With the data setup, let's turn our attention to [creating the API](./02-create-api.md).
+This first scenario is designed to provide a sense of how to work with GitHub Copilot and how to interact with it. You'll likely have seen it was able to suggest libraries to use and the tasks necessary to complete a given scenario. With the data setup, let's turn our attention to [creating the API](./2-create-api.md).
