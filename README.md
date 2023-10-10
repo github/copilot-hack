@@ -1,6 +1,6 @@
 # Exploring GitHub Copilot
 
-[GitHub Copilot](https://github.com/features/copilot) is billed and designed to be an AI pair programmer. Based on the context it sees and the code you write it will generate suggestions for the next line, block, function or even class it believes you're writing. This allows you to offload tedious tasks, obtain obscure syntax, and generate code from comments, allowing you to stay in the zone and focus on the higher level and more difficult challenges.
+[GitHub Copilot](https://github.com/features/copilot) is built and designed to be an AI pair programmer. Based on the context it sees and the code you write it will generate suggestions for the next line, block, function or even class it believes you're writing. This allows you to offload tedious tasks, obtain obscure syntax, and generate code from comments, allowing you to stay in the zone and focus on the higher level and more difficult challenges.
 
 This workshop is created to give you the opportunity to explore GitHub Copilot, to see how to use and interact with it while building an application. A loose structure is provided to create a scenario and give you a starting point, with a series of challenges to guide you through various aspects of coding with GitHub Copilot.
 
