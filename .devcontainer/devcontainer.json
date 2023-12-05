@@ -14,10 +14,10 @@
 	// "features": {},
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
-    "forwardPorts": [5432, 3000, 5000]
+    "forwardPorts": [5432, 3000, 5000, 8000, 8080],
 
 	// Use 'postCreateCommand' to run commands after the container is created.
-	// "postCreateCommand": "python --version",
+	"postCreateCommand": "nvm install --lts"
 
 	// Configure tool-specific properties.
 	// "customizations": {},
