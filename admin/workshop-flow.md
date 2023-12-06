@@ -10,7 +10,7 @@ Attention should be paid to ensure learners know mentors are available to answer
 
 | Time          | Content                                                                                                                                                              |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 08:00 - 09:00 | Welcome and GitHub Copilot overview presentation (Deck link to come)                                                                                                 |
+| 08:00 - 09:00 | Welcome and [GitHub Copilot overview presentation](https://docs.google.com/presentation/d/1eoH-BNhqopnl9IcwZpvH6bwLIw5V4lGK9EXN2396Ubk/edit?usp=sharing)                                                                                                 |
 | 09:00 - 11:00 | Learners hack, getting their environments setup and working through the challenges                                                                                   |
 | 11:00 - 11:30 | Present a possible solution for creating and exporting the model, and tips about getting support from GitHub Copilot                                                 |
 | 11:30 - 12:30 | Lunch                                                                                                                                                                |
