@@ -6,8 +6,6 @@
 	"service": "app",
 	"workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
 	"features": {
-		"ghcr.io/devcontainers/features/azure-cli:1": {},
-		"ghcr.io/devcontainers/features/github-cli:1": {}
 	},
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
