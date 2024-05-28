@@ -36,7 +36,19 @@
 	// "postCreateCommand": "python --version",
 
 	// Configure tool-specific properties.
-	// "customizations": {},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"GitHub.copilot",
+				"GitHub.copilot-chat",
+				"ms-python.vscode-pylance",
+				"ms-toolsai.jupyter",
+				"ms-dotnettools.csdevkit",
+				"vscjava.vscode-maven",
+				"vscjava.vscode-gradle",
+			]
+		}
+	},
 
 	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
 	// "remoteUser": "root"
