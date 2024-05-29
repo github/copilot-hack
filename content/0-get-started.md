@@ -13,7 +13,7 @@ To start creating code you'll of course need to get the code. This repository is
 3. Enter the appropriate information to configure the name and location of the repository. If a specific organization has been defined for your event, use that as the **owner**. (If you're unsure, ask a mentor).
 4. Select **Create repository** to create the repository.
 5. Once the repository is created, open it in GitHub Codespaces by selecting **Code** > **Codespaces** > **Create a codespace on main** (indicated by the **+**).
-6. The codespace will take a few minutes to setup the first time. It contains everything needed for the workshop, including Python/Anaconda and Node.js. It doesn't yet contain the extension for GitHub Copilot, which you'll install next.
+6. The codespace may take a few minutes to setup the first time. It contains everything needed for the workshop, including Python/Anaconda and Node.js. It doesn't yet contain the extension for GitHub Copilot, which you'll install next.
 
 ## Install the extension
 
