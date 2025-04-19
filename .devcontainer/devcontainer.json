@@ -35,6 +35,7 @@
 	// Use 'postCreateCommand' to run commands after the container is created.
 	// "postCreateCommand": "python --version",
 
+	//cc
 	// Configure tool-specific properties.
 	"customizations": {
 		"vscode": {
